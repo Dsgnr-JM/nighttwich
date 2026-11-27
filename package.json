@@ -19,6 +19,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@ai-sdk/deepseek": "^3.0.89",
     "@ai-sdk/google": "^4.0.126",
     "ai": "^7.0.181",
     "dotenv": "^18.0.10",
